@@ -1,0 +1,20 @@
+﻿# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Data outputs (CSVs, charts) - too large for git
+data/results/
+data/charts/
+
+# Ollama model cache
+.ollama/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
